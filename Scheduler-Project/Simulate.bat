@@ -1,0 +1,1 @@
+python -m simulator examples\test1.in
